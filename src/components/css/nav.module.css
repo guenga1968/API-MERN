@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border-bottom: 1px solid #799d33;
+  padding: 0.5rem;
+
+}
+.logo {
+  width: 60px;
+  height: 60px;
+}
+.icons {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
