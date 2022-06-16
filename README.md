@@ -2,7 +2,11 @@
 
 Este pequeño proyecto consite en una API que permite alta, baja y modificación de registros utilizando una base
 de datos no realacional (MongoDB).
+
+Para el control del formulario se usó React-Hook-Form.
+
 Además se utiliza useContext y useReducer para manejar el estado de la aplicación, en reemplazo de Redux.
+
 
 ## Tecnologias utilizadas:
 React, React-Router-Dom, React-Hook-Form para manejar el formulario y las rutas.
