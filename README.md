@@ -15,6 +15,12 @@ Node.js, Express, Mongoose para la base de datos
 
 ## Para la instalación
 
+Recuerda primero iniciar la base de datos:
+
+```
+mongod
+```
+
 Posicionarse en la carpeta del proyecto y ejecutar el siguiente comando:
 
     ```
